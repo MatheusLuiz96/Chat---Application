@@ -971,31 +971,31 @@
 <XPD:REF name="Associations[0]">pq+ofUbkE0ylALNTxKoBBgAA</XPD:REF>
 <XPD:ATTR name="#Attributes" type="integer">7</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="vrRucVA9kE2fGbdN64mNIQAA">
-<XPD:ATTR name="Name" type="string">btn_send_msg</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">btnSend_msg</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">Button</XPD:ATTR>
 <XPD:REF name="Owner">tR23xdex4ky2/PJ417psOAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="eHziKAlDvE6rCe+h6dOsjgAA">
-<XPD:ATTR name="Name" type="string">input_msg</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">inputMsg</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">EditText</XPD:ATTR>
 <XPD:REF name="Owner">tR23xdex4ky2/PJ417psOAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[2]" type="UMLAttribute" guid="xWBsUiFDJUqDAOX+3gKA5AAA">
-<XPD:ATTR name="Name" type="string">chat_conversation</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">chatConversation</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">TextView</XPD:ATTR>
 <XPD:REF name="Owner">tR23xdex4ky2/PJ417psOAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[3]" type="UMLAttribute" guid="+1ZcK7zVrkiGOQS7S3HPYgAA">
-<XPD:ATTR name="Name" type="string">user_name</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">userName</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">String</XPD:ATTR>
 <XPD:REF name="Owner">tR23xdex4ky2/PJ417psOAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="6mFilqG5YU6XzwspmtUAnQAA">
-<XPD:ATTR name="Name" type="string">room_name</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">roomName</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">String</XPD:ATTR>
 <XPD:REF name="Owner">tR23xdex4ky2/PJ417psOAAA</XPD:REF>
@@ -1007,7 +1007,7 @@
 <XPD:REF name="Owner">tR23xdex4ky2/PJ417psOAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[6]" type="UMLAttribute" guid="ramN50a8kUCKqyz3lajOrwAA">
-<XPD:ATTR name="Name" type="string">temp_key</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">tempKey</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">String</XPD:ATTR>
 <XPD:REF name="Owner">tR23xdex4ky2/PJ417psOAAA</XPD:REF>
@@ -1065,10 +1065,10 @@
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="Operations[3]" type="UMLOperation" guid="9HtwcEUyJEGJol+d3bU4dgAA">
-<XPD:ATTR name="Name" type="string">request_user_name</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">requestUserName</XPD:ATTR>
 <XPD:REF name="Owner">SLoC4PpZxUSjzT0aDF5Z9wAA</XPD:REF>
 <XPD:ATTR name="#Parameters" type="integer">1</XPD:ATTR>
-<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="86+xohuzmUqHRiWTYyD08gAA">
+<XPD:OBJ name="Parameters[0]" type="UMLParameter" guid="pQ1JxNNpFk6KQucplSw+1gAA">
 <XPD:ATTR name="DirectionKind" type="UMLParameterDirectionKind">pdkReturn</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">void</XPD:ATTR>
 <XPD:REF name="BehavioralFeature">9HtwcEUyJEGJol+d3bU4dgAA</XPD:REF>
@@ -1078,13 +1078,13 @@
 <XPD:REF name="Associations[0]">6va33ihNQU6lH3mhEI4h+gAA</XPD:REF>
 <XPD:ATTR name="#Attributes" type="integer">7</XPD:ATTR>
 <XPD:OBJ name="Attributes[0]" type="UMLAttribute" guid="LZ/Xx0EW4E+jik67mecA3QAA">
-<XPD:ATTR name="Name" type="string">add_room</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">addRoom</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">Button</XPD:ATTR>
 <XPD:REF name="Owner">SLoC4PpZxUSjzT0aDF5Z9wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[1]" type="UMLAttribute" guid="rbhV7G5wOUqxVXFOqTHjowAA">
-<XPD:ATTR name="Name" type="string">room_name</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">roomName</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">EditText</XPD:ATTR>
 <XPD:REF name="Owner">SLoC4PpZxUSjzT0aDF5Z9wAA</XPD:REF>
@@ -1102,7 +1102,7 @@
 <XPD:REF name="Owner">SLoC4PpZxUSjzT0aDF5Z9wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Attributes[4]" type="UMLAttribute" guid="Htwxk2FBRUedLWAUKhSdVAAA">
-<XPD:ATTR name="Name" type="string">list_of_rooms</XPD:ATTR>
+<XPD:ATTR name="Name" type="string">listOfRooms</XPD:ATTR>
 <XPD:ATTR name="Visibility" type="UMLVisibilityKind">vkPrivate</XPD:ATTR>
 <XPD:ATTR name="TypeExpression" type="string">ArrayList&lt;String&gt;</XPD:ATTR>
 <XPD:REF name="Owner">SLoC4PpZxUSjzT0aDF5Z9wAA</XPD:REF>
